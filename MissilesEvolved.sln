@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissilesEvolved", "MissilesEvolved.csproj", "{BAD5249B-8B42-4CF3-9514-9AA00F4068E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD5249B-8B42-4CF3-9514-9AA00F4068E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD5249B-8B42-4CF3-9514-9AA00F4068E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD5249B-8B42-4CF3-9514-9AA00F4068E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD5249B-8B42-4CF3-9514-9AA00F4068E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D82711C-28E6-4D8C-A3B5-BCBE9F2B9D24}
+	EndGlobalSection
+EndGlobal
